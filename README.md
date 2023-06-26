@@ -2,7 +2,6 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>Machine Learning Bootcamp Learning Material</title>
   </head>
   <body>
     <h1>Machine Learning Bootcamp Learning Material</h1>
